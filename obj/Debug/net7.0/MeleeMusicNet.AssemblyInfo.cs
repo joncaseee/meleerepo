@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeleeMusicNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c54584d34f3d6eb7cf01215a2d7f246b28a0e82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9076afe81763b563497ca42263cc4d430ba01538")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeleeMusicNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeleeMusicNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
