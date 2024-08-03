@@ -1,0 +1,7 @@
+/Volumes/Applications/Visual Studio/Publishes/MeleeMusic/0.1.7/MeleeMusicNet
+/Volumes/Applications/Visual Studio/Publishes/MeleeMusic/0.1.7/appsettings.Development.json
+/Volumes/Applications/Visual Studio/Publishes/MeleeMusic/0.1.7/appsettings.json
+/Volumes/Applications/Visual Studio/Publishes/MeleeMusic/0.1.7/MeleeMusicNet.dll
+/Volumes/Applications/Visual Studio/Publishes/MeleeMusic/0.1.7/MeleeMusicNet.deps.json
+/Volumes/Applications/Visual Studio/Publishes/MeleeMusic/0.1.7/MeleeMusicNet.runtimeconfig.json
+/Volumes/Applications/Visual Studio/Publishes/MeleeMusic/0.1.7/MeleeMusicNet.pdb

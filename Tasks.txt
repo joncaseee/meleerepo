@@ -1,0 +1,20 @@
+﻿
+- make Submission2 page
+    - submissions are not available at this time
+    - ask to join email list
+
+- make Connect page
+    - create cloudflare worker
+    - create form
+    - Join Our Email List to stay informed
+
+- make Artists2 page
+    - No Artists to display at this time.
+    - explain: every artist that releases a Single, EP, or Mix with us will have a dedicated artist landing page featuring the release plus links to socials and PFP
+
+- make Modal
+    - Thanks for your Submission!
+        - Submission is being reviewed
+        - will email you
+        - ask chatGPT to write it
+    - Subscribed to Email List

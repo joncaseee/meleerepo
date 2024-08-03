@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>@Model.Alias - Profile</title>
+    <style>
+        .artist-profile {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .artist-photo {
+            flex: 1;
+            max-width: 300px;
+            margin-right: 20px;
+        }
+
+        .artist-photo img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .social-links, .streaming-links {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .social-links a, .streaming-links a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 50px; /* Adjust width as needed */
+            height: 50px; /* Adjust height as needed */
+            font-size: 32px;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">@Model.Alias</h1>
+    <div class="artist-profile">
+        <div class="artist-photo">
+            <img src="@Model.PhotoUrl" alt="@Model.Alias" />
+        </div>
+
+    </div>
+    <div class="streaming-links" style="padding-bottom: 1px;">
+        @if (Model.SocialLinks != null)
+        {
+            if (Model.SocialLinks.Length > 0)
+            {
+                <a href="@Model.SocialLinks[0]" class="custom-button2" target="_blank">
+                    <i class="fab fa-facebook" aria-hidden="true"></i>
+                </a>
+            }
+            if (Model.SocialLinks.Length > 1)
+            {
+                <a href="@Model.SocialLinks[1]" class="custom-button2" target="_blank">
+                    <i class="fab fa-instagram" aria-hidden="true"></i>
+                </a>
+            }
+            if (Model.SocialLinks.Length > 2)
+            {
+                <a href="@Model.SocialLinks[2]" class="custom-button2" target="_blank">
+                    <i class="fab fa-twitter" aria-hidden="true"></i>
+                </a>
+            }
+        }
+
+        @if (Model.StreamingLinks != null)
+        {
+            if (Model.StreamingLinks.Length > 0)
+            {
+                <a href="@Model.StreamingLinks[0]" class="custom-button2" target="_blank">
+                    <i class="fab fa-apple" aria-hidden="true"></i>
+                </a>
+            }
+            if (Model.StreamingLinks.Length > 1)
+            {
+                <a href="@Model.StreamingLinks[1]" class="custom-button2" target="_blank">
+                    <i class="fab fa-spotify" aria-hidden="true"></i>
+                </a>
+            }
+            if (Model.StreamingLinks.Length > 2)
+            {
+                <a href="@Model.StreamingLinks[2]" class="custom-button2" target="_blank">
+                    <i class="fab fa-youtube" aria-hidden="true"></i>
+                </a>
+            }
+        }
+    </div>
+
+    <div style="padding-bottom: 15px;">
+                <a href="mailto:chris@soundsbycipher.com" class="custom-button3" target="_blank">
+            <i class="fas fa-envelope" style="font-size: 22px; padding-right: 10px;" aria-hidden="true"></i> Bookings & Inqueries
+        </a>
+    </div>
+
+    <div class="embedded-content" style="padding-bottom: 150px;">
+        @Html.Raw(Model.EmbeddedContent)
+    </div>
+</body>
+</html>

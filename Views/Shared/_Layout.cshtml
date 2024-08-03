@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MeleeMusicNet</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MeleeMusicNet.styles.css" asp-append-version="true" />
+</head>
+<body style="background-color: black; color: white; padding-top: 75px;">
+
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 fixed-top">
+            <div class="container-fluid">
+                <!-- Replace text with an image tag and Imgur URL -->
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="https://i.imgur.com/LQUg7SW.png" alt="MeleeMusicNet Logo" width="25" height="28" />
+                </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Artists" asp-action="ListArtists">Artists</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Mixes">Mixes</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Releases">Releases</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Connect">Connect</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-light submissions-button" asp-area="" asp-controller="Home" asp-action="Submissions">Submissions</a>
+                        </li>
+                    </ul>
+                </div>
+
+
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+
+    <footer class="border-top footer text-muted" style="background-color: #000;">
+
+<div class="text-center" style="margin-top: 5px;>
+    <div style="text-align: center; padding-bottom: 50px">
+    <a style="display: inline-block;">
+        <img src="https://i.imgur.com/qhZ1bZ2.png" alt="MeleeMusic Banner" style="width: 50%; height: auto;" />
+    </a>
+</div>
+</div>
+
+        <div class="text-center"">
+            <a href="https://instagram.com/meleemusichq" target="_blank">
+                <img src="https://i.imgur.com/AFzS3Gs.png" alt="Instagram" width="50" height="50" style="margin-left: 5px; margin-right: 5px">
+            </a>
+            <a href="https://www.facebook.com/meleemusichq" target="_blank">
+                <img src="https://i.imgur.com/Fqj1SlD.png" alt="Facebook" width="50" height="50" style="margin-left: 1px; margin-right: 1px">
+            </a>
+            <a href="https://soundcloud.com/meleemusichq" target="_blank">
+                <img src="https://i.imgur.com/sTfYhTP.png" alt="SoundCloud" width="50" height="50" style="margin-left: 5px; margin-right: 5px">
+            </a>
+            <a href="https://www.youtube.com/channel/meleemusichq" target="_blank">
+                <img src="https://i.imgur.com/Zua3zJV.png" alt="YouTube" width="50" height="50" style="margin-left: 5px; margin-right: 5px">
+            </a>
+            <a href="https://music.apple.com/us/" target="_blank">
+                <img src="https://i.imgur.com/FU3eorn.png" alt="Apple Music" width="50" height="50" style="margin-left: 5px; margin-right: 5px">
+            </a>
+            <a href="https://open.spotify.com/" target="_blank">
+                <img src="https://i.imgur.com/bRqjMNs.png" alt="Spotify" width="50" height="50" style="margin-left: 5px; margin-right: 5px">
+            </a>
+        </div>
+
+        <div class="text-center">
+            <p>
+                &copy; 2024 - Melee Music -
+                <a href="mailto:support@meleemusic.net" style="text-decoration: none;">
+                    support@meleemusic.net
+                </a>
+
+            </p>
+        </div>
+
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

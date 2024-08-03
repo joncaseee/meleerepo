@@ -1,0 +1,116 @@
+﻿@{
+    ViewData["Title"] = "Submissions";
+}
+
+<script src="https://static.cloudflareinsights.com/beacon.min.js" defer></script>
+
+
+
+
+<div style="text-align: center; padding-bottom: 50px">
+    <a style="display: inline-block;">
+        <img src="https://i.imgur.com/5zMAJBi.png" alt="MeleeMusicNet Banner" style="width: 50%; height: auto;" />
+    </a>
+</div>
+
+<div>
+    <h1 style="padding-top: 50px" class="title">Artist Entry Application</h1>
+
+<p style="padding-bottom: 50px">Fill out the form below to be considered for a slot at an upcoming Melee Music event. We look forward to collaborating with you!</p>
+
+
+    <form class="form-horizontal" method="post" action="https://worker-noisy-leaf-9842.imnotkayne.workers.dev/">
+
+
+<h3 style="" class="title">Info</h3>
+
+        <div class="form-group">
+            <label for="name">Name: * </label>
+            <input type="text" class="form-control" name="name" placeholder="Enter Name" id="name" required />
+        </div>
+
+        <div class="form-group">
+            <label for="alias">Alias: * </label>
+            <input type="text" class="form-control" name="alias" placeholder="Enter Alias" id="alias" required />
+        </div>
+
+        <div class="form-group">
+            <label for="email">Email: * </label>
+            <input type="email" class="form-control" name="email" placeholder="Enter Email Address" id="email" required />
+        </div>
+
+        <h3 style="padding-top: 35px" class="title">Socials</h3>
+
+        <p style="padding-bottom: 15px;">Please input at least one of the following.</p>
+
+        <div class="form-group">
+            <label for="fb">Facebook: </label>
+            <input type="text" class="form-control" name="fb" placeholder="https://facebook.com/YourPageURL" id="fb" />
+        </div>
+
+        <div class="form-group">
+            <label for="insta">Instagram: </label>
+            <input type="text" class="form-control" name="insta" placeholder="https://instagram.com/YourPageURL" id="insta" />
+        </div>
+
+        <div class="form-group">
+            <label for="x">X: </label>
+            <input type="text" class="form-control" name="x" placeholder="https://x.com/YourPageURL" id="x" />
+        </div>
+
+         <div class="form-group">
+            <label for="soundcloud">Soundcloud: </label>
+            <input type="text" class="form-control" name="soundcloud" placeholder="https://soundcloud.com/YourPageURL" id="soundcloud" />
+        </div>
+
+
+        <h3 style="padding-top: 35px" class="title">Submission</h3>
+
+        <div class="form-group">
+            <label for="type">Type: *</label>
+            <div class="form-check">
+                <input type="radio" class="form-check-input" id="single" name="type" value="single" required>
+                <label class="form-check-label" for="single">Single</label>
+            </div>
+            <div class="form-check">
+                <input type="radio" class="form-check-input" id="ep" name="type" value="ep">
+                <label class="form-check-label" for="ep">EP</label>
+            </div>
+            <div class="form-check">
+                <input type="radio" class="form-check-input" id="mix" name="type" value="mix">
+                <label class="form-check-label" for="mix">Mix</label>
+            </div>
+        </div>
+
+        <div class="form-group" style="padding-top: 20px">
+            <label for="link">Link To Your Submission: * </label>
+            <input type="text" class="form-control" name="link" placeholder="Enter Link" id="link" />
+        </div>
+
+        @* <div class="form-group">
+            <label for="windowSide">Interior/Exterior/Both:</label>
+            <div class="form-check">
+                <input type="radio" class="form-check-input" id="interior" name="windowSide" value="interior">
+                <label class="form-check-label" for="interior">Interior</label>
+            </div>
+            <div class="form-check">
+                <input type="radio" class="form-check-input" id="exterior" name="windowSide" value="exterior">
+                <label class="form-check-label" for="exterior">Exterior</label>
+            </div>
+            <div class="form-check">
+                <input type="radio" class="form-check-input" id="both" name="windowSide" value="both">
+                <label class="form-check-label" for="both">Both</label>
+            </div>
+        </div> *@
+
+        <div class="cf-turnstile" data-sitekey="0x4AAAAAAAQpdXX7YcDWPWmT"></div>
+        <div class="form-group" style="padding-top: 35px; padding-bottom: 300px">
+            <input type="submit" value="Submit" class="custom-button">
+        </div>
+
+
+    </form>
+
+</div>
+
+

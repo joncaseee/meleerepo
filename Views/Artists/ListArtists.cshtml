@@ -1,0 +1,45 @@
+﻿@model List<ArtistProfileViewModel>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Artists</title>
+    <style>
+        .artist-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+        }
+        .artist-card {
+            text-align: center;
+        }
+        .artist-card img {
+            max-width: 100%;
+            height: auto;
+        }
+        .artist-card a {
+            text-decoration: none;
+            color: rgb(255, 255, 255);
+        }
+        .artist-card a:hover {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<h1 style="text-align: center; padding-bottom: 50px;">Melee Artists</h1>
+<div style="padding-bottom: 150px;">
+    <body>
+    <div class="artist-grid">
+        @foreach (var artist in Model)
+        {
+            <div class="artist-card">
+                <a href="@Url.Action("Profile", "Artists", new { alias = artist.Alias })">
+                    <img src="@artist.PhotoUrl" alt="@artist.Alias" />
+                    <div>@artist.Alias</div>
+                </a>
+            </div>
+        }
+    </div>
+</body>
+</div>
+</html>
