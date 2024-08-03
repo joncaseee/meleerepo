@@ -9,97 +9,99 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MeleeMusicNet
 build_property.RootNamespace = MeleeMusicNet
-build_property.ProjectDir = /Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/
+build_property.ProjectDir = C:\Users\Shadow\VS Code\meleerepo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = /Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet
+build_property.MSBuildProjectDirectory = C:\Users\Shadow\VS Code\meleerepo
 build_property._RazorSourceGeneratorDebug = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Artists/Cipher.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0cy9DaXBoZXIuY3NodG1s
+[C:/Users/Shadow/VS Code/meleerepo/Views/Artists/Cipher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xDaXBoZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Artists/Feelingsmutual.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0cy9GZWVsaW5nc211dHVhbC5jc2h0bWw=
+[C:/Users/Shadow/VS Code/meleerepo/Views/Artists/Feelingsmutual.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xGZWVsaW5nc211dHVhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Artists/ListArtists.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0cy9MaXN0QXJ0aXN0cy5jc2h0bWw=
+[C:/Users/Shadow/VS Code/meleerepo/Views/Artists/ListArtists.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xMaXN0QXJ0aXN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Artists/Profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0cy9Qcm9maWxlLmNzaHRtbA==
+[C:/Users/Shadow/VS Code/meleerepo/Views/Artists/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Artists/Taco.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0cy9UYWNvLmNzaHRtbA==
+[C:/Users/Shadow/VS Code/meleerepo/Views/Artists/Taco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xUYWNvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/Artists2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BcnRpc3RzMi5jc2h0bWw=
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/Artists2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcnRpc3RzMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/BlockParty.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9CbG9ja1BhcnR5LmNzaHRtbA==
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/BlockParty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9ja1BhcnR5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/Connect.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db25uZWN0LmNzaHRtbA==
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/Connect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25uZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/EmailSuccess.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FbWFpbFN1Y2Nlc3MuY3NodG1s
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/EmailSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbWFpbFN1Y2Nlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/LocationAnnouncement.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Mb2NhdGlvbkFubm91bmNlbWVudC5jc2h0bWw=
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/LocationAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2NhdGlvbkFubm91bmNlbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/LocationRequested.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Mb2NhdGlvblJlcXVlc3RlZC5jc2h0bWw=
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/LocationRequested.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2NhdGlvblJlcXVlc3RlZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/Mixes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NaXhlcy5jc2h0bWw=
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/Mixes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNaXhlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/Releases.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9SZWxlYXNlcy5jc2h0bWw=
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/Releases.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWxlYXNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/Submissions.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdWJtaXNzaW9ucy5jc2h0bWw=
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/Submissions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJtaXNzaW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/SubmissionSuccess.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdWJtaXNzaW9uU3VjY2Vzcy5jc2h0bWw=
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/SubmissionSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJtaXNzaW9uU3VjY2Vzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Home/Submit2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdWJtaXQyLmNzaHRtbA==
+[C:/Users/Shadow/VS Code/meleerepo/Views/Home/Submit2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJtaXQyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/Shadow/VS Code/meleerepo/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Shadow/VS Code/meleerepo/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/Shadow/VS Code/meleerepo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/Shadow/VS Code/meleerepo/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Volumes/Applications/Visual Studio/Projects/MeleeMusicNet/MeleeMusicNet/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-pqtohj5sw4
+[C:/Users/Shadow/VS Code/meleerepo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r9p9xvelho
