@@ -58,7 +58,10 @@ public class HomeController : Controller
         return View();
     }
 
-
+ public IActionResult Shop()
+    {
+        return View();
+    }
 
     public IActionResult SubmissionSuccess()
     {

@@ -2186,11 +2186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Applications/Visual Studio/Git/MeleeMusic/meleerepo/MeleeMusicNet.csproj",
+      "projectUniqueName": "/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo/MeleeMusicNet.csproj",
       "projectName": "MeleeMusicNet",
-      "projectPath": "/Volumes/Applications/Visual Studio/Git/MeleeMusic/meleerepo/MeleeMusicNet.csproj",
+      "projectPath": "/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo/MeleeMusicNet.csproj",
       "packagesPath": "/Users/chriswestphal/.nuget/packages/",
-      "outputPath": "/Volumes/Applications/Visual Studio/Git/MeleeMusic/meleerepo/obj/",
+      "outputPath": "/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/chriswestphal/.nuget/NuGet/NuGet.Config"

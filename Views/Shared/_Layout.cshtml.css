@@ -47,3 +47,24 @@ button.accept-policy {
   line-height: 60px;
 }
 
+.navbar-toggler-icon {
+  background-image: none; /* Remove the default background image */
+}
+
+.navbar-toggler-icon .fas {
+  font-size: 32px; /* Adjust the size of the Font Awesome icon as needed */
+  color: black;
+}
+
+
+.navbar-toggler-icon .fas:hover {
+  color: #fff;
+}
+
+.navbar-toggler:hover {
+    background-color: #000;
+    color: #fff;
+    box-shadow: 1px 1px 15px #000;
+}
+
+
