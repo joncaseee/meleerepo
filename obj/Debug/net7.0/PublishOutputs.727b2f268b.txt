@@ -1,11 +1,6 @@
 /Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Debug/net7.0/publish/MeleeMusicNet
-/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Debug/net7.0/publish/publish/web.config
 /Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Debug/net7.0/publish/appsettings.Development.json
 /Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Debug/net7.0/publish/appsettings.json
-/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Debug/net7.0/publish/publish/appsettings.Development.json
-/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Debug/net7.0/publish/publish/appsettings.json
-/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Debug/net7.0/publish/publish/MeleeMusicNet.deps.json
-/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Debug/net7.0/publish/publish/MeleeMusicNet.runtimeconfig.json
 /Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Debug/net7.0/publish/refs/Microsoft.AspNetCore.Antiforgery.dll
 /Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Debug/net7.0/publish/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
 /Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Debug/net7.0/publish/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
