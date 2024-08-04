@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LwUtmarz2oXS2anfvu9x4P04mXhvnY05pIc9dxZ75ajzoIFdCKwjvlNy4UH2Qh9BnMhxouoG8V3JyY/QDIazYA==",
+  "dgSpecHash": "sXn5TibOup/PfJMuPH095j6txcDbJN/lIVTgJ3vrRScQubbK94Vr746EkaE/xwJ23xRhZK8NonQHX0gG8wUK1w==",
   "success": true,
-  "projectFilePath": "/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo/MeleeMusicNet.csproj",
+  "projectFilePath": "/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/MeleeMusicNet.csproj",
   "expectedPackageFiles": [
     "/Users/chriswestphal/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/7.0.0/microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/chriswestphal/.nuget/packages/microsoft.aspnetcore.jsonpatch/7.0.0/microsoft.aspnetcore.jsonpatch.7.0.0.nupkg.sha512",
