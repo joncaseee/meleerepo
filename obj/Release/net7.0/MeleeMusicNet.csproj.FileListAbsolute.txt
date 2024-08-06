@@ -762,3 +762,8 @@
 /Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/obj/Release/net7.0/MeleeMusicNet.pdb
 /Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/obj/Release/net7.0/MeleeMusicNet.genruntimeconfig.cache
 /Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/obj/Release/net7.0/ref/MeleeMusicNet.dll
+/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Release/net7.0/publish/web.config
+/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Release/net7.0/publish/appsettings.Development.json
+/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Release/net7.0/publish/appsettings.json
+/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Release/net7.0/publish/MeleeMusicNet.deps.json
+/Volumes/Applications/Visual Studio/Git/MeleeMusic/MMREPO/meleerepo-1/bin/Release/net7.0/publish/MeleeMusicNet.runtimeconfig.json
